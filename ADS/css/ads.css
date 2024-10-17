@@ -1,0 +1,7 @@
+.border-blue{
+    border: 1px solid var(--color1); 
+}
+
+.text-gray{
+    color: var(--gray);
+}
